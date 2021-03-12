@@ -1,0 +1,21 @@
+{
+    "name": "SVM40",
+    "version": "0.1.0",
+    "description": "Sensirion SVM40 I2C driver",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "SVM40.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
